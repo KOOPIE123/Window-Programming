@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\視窗程式設計\ch8-3-2\ch8-3-2\bin\Debug\ch8-3-2.exe.config
+C:\Users\USER\Desktop\視窗程式設計\ch8-3-2\ch8-3-2\bin\Debug\ch8-3-2.exe
+C:\Users\USER\Desktop\視窗程式設計\ch8-3-2\ch8-3-2\bin\Debug\ch8-3-2.pdb
+C:\Users\USER\Desktop\視窗程式設計\ch8-3-2\ch8-3-2\obj\Debug\ch8-3-2.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\視窗程式設計\ch8-3-2\ch8-3-2\obj\Debug\ch8_3_2.Form1.resources
+C:\Users\USER\Desktop\視窗程式設計\ch8-3-2\ch8-3-2\obj\Debug\ch8_3_2.Properties.Resources.resources
+C:\Users\USER\Desktop\視窗程式設計\ch8-3-2\ch8-3-2\obj\Debug\ch8-3-2.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\視窗程式設計\ch8-3-2\ch8-3-2\obj\Debug\ch8-3-2.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\視窗程式設計\ch8-3-2\ch8-3-2\obj\Debug\ch8-3-2.exe
+C:\Users\USER\Desktop\視窗程式設計\ch8-3-2\ch8-3-2\obj\Debug\ch8-3-2.pdb
