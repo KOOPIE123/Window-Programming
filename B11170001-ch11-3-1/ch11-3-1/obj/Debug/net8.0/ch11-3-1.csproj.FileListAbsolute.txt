@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\視窗程式設計\ch11-3-1\ch11-3-1\bin\Debug\net8.0\ch11-3-1.exe
+C:\Users\USER\Desktop\視窗程式設計\ch11-3-1\ch11-3-1\bin\Debug\net8.0\ch11-3-1.deps.json
+C:\Users\USER\Desktop\視窗程式設計\ch11-3-1\ch11-3-1\bin\Debug\net8.0\ch11-3-1.runtimeconfig.json
+C:\Users\USER\Desktop\視窗程式設計\ch11-3-1\ch11-3-1\bin\Debug\net8.0\ch11-3-1.dll
+C:\Users\USER\Desktop\視窗程式設計\ch11-3-1\ch11-3-1\bin\Debug\net8.0\ch11-3-1.pdb
+C:\Users\USER\Desktop\視窗程式設計\ch11-3-1\ch11-3-1\obj\Debug\net8.0\ch11-3-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\視窗程式設計\ch11-3-1\ch11-3-1\obj\Debug\net8.0\ch11-3-1.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\視窗程式設計\ch11-3-1\ch11-3-1\obj\Debug\net8.0\ch11-3-1.AssemblyInfo.cs
+C:\Users\USER\Desktop\視窗程式設計\ch11-3-1\ch11-3-1\obj\Debug\net8.0\ch11-3-1.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\視窗程式設計\ch11-3-1\ch11-3-1\obj\Debug\net8.0\ch11-3-1.dll
+C:\Users\USER\Desktop\視窗程式設計\ch11-3-1\ch11-3-1\obj\Debug\net8.0\refint\ch11-3-1.dll
+C:\Users\USER\Desktop\視窗程式設計\ch11-3-1\ch11-3-1\obj\Debug\net8.0\ch11-3-1.pdb
+C:\Users\USER\Desktop\視窗程式設計\ch11-3-1\ch11-3-1\obj\Debug\net8.0\ch11-3-1.genruntimeconfig.cache
+C:\Users\USER\Desktop\視窗程式設計\ch11-3-1\ch11-3-1\obj\Debug\net8.0\ref\ch11-3-1.dll
